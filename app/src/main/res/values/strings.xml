@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Avilash Ghusi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text" translatable="false">I’m an Android Developer,
+       \n \nFor me app development is not just about coding, it’s also about creating an awesome user experience.
+
+        So far, I have worked on almost 8+ apps.Most of these apps were developed while I was working at a day job. In my portfolio, I am only showcasing apps that I have personally designed and developed.
+
+Note: If you want to know the cost of building an mobile app, my contact info is listed at the bottom. I specialize in building high quality and cost effective Android apps. Keep reading to see some of my existing apps.
+
+\n\n1. Coin Tracker — Android App
+   \n Problem Statement: When Bitcoin was trending, I wanted to explore investment options in crypto currencies. At the same time, I was interested in creating an android app(as a side project) to experiment with animations, transitions, bold UI design and typography.
+\nDesign Process: The first step is listing out the user flows.
+For example:User opens the app for the first time and sees a list with prices of Bitcoin, Etherium and Litecoin.
+User clicks on a coin and sees the current price and a price graph for the last 3 months, etc.The list is huge. Since this was a side project, the scope was drastically cut down to bare minimum MVP. It took seven days to design the first version. I showed it to my mom and few friends. They instantly liked it. That’s when I knew, the design is right. Now its time to code.
+
+\nOutcome: After coding for a month, the app was finally ready and released on Play Store. I asked some of my non-tech friends to download it and tell me if they liked it. Few days later, one of them said “Bitcoin prices are crazy these days”. I responded, “do you even follow Bitcoin?”. And he said, “Yeah, see its right here, in your app.” Success!
+
+
+    </string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="done_btn">Done</string>
+</resources>
